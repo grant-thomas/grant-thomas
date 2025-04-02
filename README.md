@@ -1,16 +1,47 @@
-## Hi there 👋
+# 👋 Hi, I'm Grant
 
-<!--
-**grant-thomas/grant-thomas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a full-stack software developer with a background in computer engineering, electrical engineering, and entrepreneurship.
 
-Here are some ideas to get you started:
+I build .gov cloud applications with:
+- ASP.NET Core Web APIs
+- UWP / MVVM
+- Azure DevOps CI/CD pipelines
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+![C#](https://img.shields.io/badge/C%23-%23239120.svg?style=flat&logo=c-sharp&logoColor=white)
+![ASP.NET Core](https://img.shields.io/badge/ASP.NET_Core-5C2D91?style=flat&logo=.net&logoColor=white)
+![UWP](https://img.shields.io/badge/UWP-0089D6?style=flat&logo=windows&logoColor=white)
+![MVVM](https://img.shields.io/badge/MVVM-007ACC?style=flat&logo=visualstudio&logoColor=white)
+![Azure DevOps](https://img.shields.io/badge/Azure_DevOps-0078D7?style=flat&logo=azuredevops&logoColor=white)
+
+### What I focus on:
+- Translating complex requirements into elegant, intuitive solutions
+- Owning both backend logic and UI/UX design end-to-end
+- Creating interfaces that are effortless to use
+- Building tools that actually help people
+
+
+### Featured Projects:
+- **Game Hub** – Video game discovery app    
+- **SkiTripCookbook** – Collaborative digital cookbook with Firebase  
+- **Ticket Manager App** – Internal support dashboard with auth and priority logic  
+- **Neo Calculator** – Industrial calculator replacing legacy Excel systems  
+
+![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat&logo=next.js&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat&logo=firebase&logoColor=black)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat&logo=tailwind-css&logoColor=white)
+![Chakra UI](https://img.shields.io/badge/Chakra_UI-319795?style=flat&logo=chakraui&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
+![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=flat&logo=microsoft-sql-server&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat&logo=vercel&logoColor=white)
+
+---
+
+📍 Baton Rouge, LA  
+🎓 LSU: Computer Engineering + Electrical Engineering + Digital Media Technology  
+💼 [LinkedIn Profile](https://www.linkedin.com/in/grantthomasdev/)   
+  
+> “The more you know, the less you say.”
