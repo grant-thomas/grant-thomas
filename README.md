@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Grant
+# 👋 Hi, I'm Grant  
 
 I'm a full-stack software developer with a background in computer engineering, electrical engineering, and entrepreneurship.
 
@@ -21,10 +21,11 @@ I build .gov cloud applications with:
 
 
 ### Featured Projects:
-- **Game Hub** – Video game discovery app    
-- **SkiTripCookbook** – Collaborative digital cookbook with Firebase  
-- **Ticket Manager App** – Internal support dashboard with auth and priority logic  
-- **Neo Calculator** – Industrial calculator replacing legacy Excel systems  
+- [**Game Hub**](https://github.com/grant-thomas/game-hub) – Video game discovery app  
+- [**SkiTripCookbook**](https://github.com/grant-thomas/ski-trip-cookbook) – Collaborative digital cookbook with Firebase  
+- [**Neo Calculator**](https://github.com/grant-thomas/neo-calculator) – Industrial calculator replacing legacy Excel systems  
+- [**Ticket Manager App**](https://github.com/grant-thomas/nextjs-ticket-app) – Internal support dashboard with auth and priority logic  
+
 
 ![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black)
 ![Next.js](https://img.shields.io/badge/Next.js-E5E5E5?style=flat&logo=next.js&logoColor=000000)
@@ -36,12 +37,4 @@ I build .gov cloud applications with:
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
 ![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=flat&logo=microsoft-sql-server&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat&logo=vercel&logoColor=white)
-
----
-
-📍 Baton Rouge, LA  
-🎓 LSU: Computer Engineering + Electrical Engineering + Digital Media Technology  
-💼 [LinkedIn Profile](https://www.linkedin.com/in/grantthomasdev/)   
-  
-> “The more you know, the less you say.”
+![Vercel](https://img.shields.io/badge/Vercel-EDEDED?style=flat&logo=vercel&logoColor=000000)
